@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @devilsnest-sys
-- 👀 I’m interested in Web devlopment & SAP ABAP
-- 🌱 I’m currently learning Angular & C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web devlopment 
+- 🌱 I’m currently learning Angular & APIs
+- 💞️ I’m looking to collaborate on Frontend 
 - 📫 How to reach me ...
 
 <!---
